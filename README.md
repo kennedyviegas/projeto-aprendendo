@@ -1,4 +1,4 @@
-# projeto aprendendo
- meu primeirorepositorio
+# Meu primeiro repositorio 
+Olá amiguinhos, Criei esse repositorio para aprender um pouco de git é github.
 
- to pegando o jeito de vagar 
+ 
